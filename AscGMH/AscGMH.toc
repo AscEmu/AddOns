@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: |cFFFF8000AscEMU GM Helper|r
+## Author: AscEmu - Community
+## Version: 0.0.4 (Alpha)
+## Notes: Under development
+## URL: ascemu.org
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: AscGMH
+
+AscGMH.lua
+MainForm.xml
+Minimap.xml
