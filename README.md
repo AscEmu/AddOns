@@ -1,7 +1,4 @@
-# ![logo](http://ascemu.org/style/img/logo.png)
+# ![logo](http://ascemu.org/images/logo.png)
 
-##AscEmu AddOns
-* AscGMH - GMHelper for AscEmu users
-
-
-
+## AscEmu AddOns
+[AscGMH](https://github.com/ascemu/AddOns/) - GMHelper for AscEmu users
